@@ -77,17 +77,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Dev-Mohamed-Ali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dev-Mohamed-Ali&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-Mohamed-Ali&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center"><i>"Make it work, make it correct, make it fast — and keep it observable."</i></p>
